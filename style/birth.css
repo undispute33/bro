@@ -23,6 +23,7 @@ body{
     border: 4px solid #f5cac3;
     margin-top: 12px;
     width: 150px;
+    height: 200px;
 }
 
 
@@ -80,7 +81,7 @@ body{
 
 #id-tag1:hover {
 
-    background: url('../images/happy.webp');
+    background: url('../images/idc.webp');
     background-size: cover;
 
 }
@@ -88,7 +89,7 @@ body{
 
 #id-tag2:hover {
 
-    background: url('../images/boner1.gif');
+    background: url('../images/nick.webp');
     background-size: cover;
 
 }
@@ -102,7 +103,7 @@ body{
 
 #id-tag4:hover {
 
-    background: url('../images/couple.webp');
+    background: url('../images/intell.webp');
     background-size: cover;
     width: 500px;
 
@@ -110,8 +111,9 @@ body{
 
 #id-tag5:hover {
 
-    background: url('../images/final.webp');
-    background-size:contain;
+    background: url('../images/fu.webp');
+    background-size:cover;
+    
 
 }
 
@@ -123,7 +125,7 @@ body{
 
 #p2{
     font-style: italic;
-    margin-top: 0px;
+    margin-top: 30px;
 
 }
 
